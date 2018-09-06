@@ -8,6 +8,8 @@ Para o banco de dados foi utilizado SQL Server, onde o script para criação das
 
 Como documentação e também ambiente para testes das APIs, foi utilizado o Swagger. Através do Swagger é possível visualizar os APIs disponíveis e quais parâmetros são necessários em cada uma.
 
+Exemplo de endereço para acesso ao swagger da aplicação: https://localhost:44370/swagger
+
 A implementação do backend foi implementada em .Net Core, utilizando o Entity Framework para modelar e se comunicar com banco de dados.
 
 # Segurança:
