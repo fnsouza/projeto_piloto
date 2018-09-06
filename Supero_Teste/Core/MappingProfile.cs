@@ -23,6 +23,11 @@ namespace Core
                 .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description))
                 .ForMember(dest => dest.Status, opt => opt.MapFrom(src => src.Status.ToEnum<EStatus>().StatusDescription()))
                 .ForMember(dest => dest.CreateDate, opt => opt.MapFrom(src => src.CreateDate));
+
+            CreateMap<UserRequest, UserEntity>()
+                .ForMember(dest => dest.Name, opt => opt.MapFrom(y => y.Name))
+                .ForMember(dest => dest.Username, opt => opt.MapFrom(y => y.Username))
+                .ForMember(dest => dest.Password, opt => opt.MapFrom(y => y.Password));
         }
     }
 }
