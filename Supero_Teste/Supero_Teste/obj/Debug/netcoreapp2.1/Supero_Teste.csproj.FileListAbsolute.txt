@@ -1,0 +1,14 @@
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\bin\Debug\netcoreapp2.1\Supero_Teste.deps.json
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\bin\Debug\netcoreapp2.1\Supero_Teste.runtimeconfig.json
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\bin\Debug\netcoreapp2.1\Supero_Teste.runtimeconfig.dev.json
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\bin\Debug\netcoreapp2.1\Supero_Teste.dll
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\bin\Debug\netcoreapp2.1\Supero_Teste.pdb
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.csprojAssemblyReference.cache
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.csproj.CoreCompileInputs.cache
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.RazorAssemblyInfo.cache
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.RazorAssemblyInfo.cs
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.AssemblyInfoInputs.cache
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.AssemblyInfo.cs
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.RazorTargetAssemblyInfo.cache
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.dll
+c:\users\felip\source\repos\Supero_Teste\Supero_Teste\obj\Debug\netcoreapp2.1\Supero_Teste.pdb
